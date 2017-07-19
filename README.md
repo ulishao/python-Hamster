@@ -1,8 +1,11 @@
-# python-Hamster
+# python-Hamster 自动打地鼠
 
 
 ## Python2.7 + 
 ## autopy 
 https://pypi.python.org/pypi/autopy 
 
-自动打地鼠
+## 打地鼠地址 http://www.4399.com/flash/178030_3.htm
+
+
+
